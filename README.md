@@ -1,5 +1,5 @@
 # HackerRank's Ruby Challenge!
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKM08VC6luTC3R6y-Nplxs2K8q_Jm5WRxZ8d0LBNZz-PO5ZTEy)
+![image](https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&hash=6AXd%2FtRk2S9vXdWIDPdlOVPkGu8%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6igRgezFIv5brOq0y_9kIIRJHPB3TiRHf7roLVI2irPJWWFu704ghKFy9u00BjPazHRV-9S83nft62I8F22JC0cpPnYldXJww4gg)
 
 >Solution for HackerRank's Ruby Challenge!
 
