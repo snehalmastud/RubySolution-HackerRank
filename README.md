@@ -32,6 +32,7 @@
 ---
 
 ## Methods
+
 -[Blocks](https://github.com/snehalmastud/myRubySolution-HackerRank/blob/master/Methods/Blocks/Solution.rb)
 
 -[Closures](https://github.com/snehalmastud/myRubySolution-HackerRank/blob/master/Methods/Closures/Solution.rb)
